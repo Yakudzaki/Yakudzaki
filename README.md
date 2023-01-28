@@ -35,6 +35,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakudzaki&theme=dark" alt="yakudzaki" /></p>
 
 </p> 
-  
-<h3> - Blogs 🌱</h3>
-<a href="https://t.me/YakudzaVlog" target="blank">Blog</a>
