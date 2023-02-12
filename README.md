@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://t.me/YakudzaProjects](https://t.me/YakudzaProjects)
 
-- 📝 I regularly write articles on [https://t.me/YakudzaVlog](https://t.me/YakudzaVlog)
+- 📝 I regularly write articles on [https://t.me/YakudzaBlog](https://t.me/YakudzaBlog)
 
 - 💬 Ask me about **Aiogram**
 
