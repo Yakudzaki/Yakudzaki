@@ -8,7 +8,7 @@ class Yakudza:
         self.name = 'Akmal Nozdrevatykh'
         self.age = 17
         self.web = 'yakudzaki.github.io'
-        self.telegram = '@Yakudza_Drill'
+        self.telegram = '@YakudzaXDev'
         self.code = {
             'frontend': ['HTML', 'CSS','Boostrap'],
             'backend': ['Python', 'Flask', 'Django'],
@@ -29,5 +29,5 @@ if __name__ == '__main__':
 ```
 ## Get in touch
 
-- Telegram: https://t.me/Yakudza_Drill
+- Telegram: https://t.me/YakudzaXDev
 - Personal website: https://yakudzaki.github.io
